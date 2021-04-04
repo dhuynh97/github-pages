@@ -1,4 +1,5 @@
 # Daniel Huynh's Page
+(daniel.png)
 
 [Picture of me](daniel.png)
 
