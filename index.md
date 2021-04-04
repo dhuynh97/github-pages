@@ -1,6 +1,6 @@
 # Daniel Huynh's Page
 
-[Picture of me](daniel.png)
+![Picture of me](daniel.png)
 
 *Hello* my name is Daniel Huynh.
 
