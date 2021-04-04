@@ -1,6 +1,6 @@
 # Daniel Huynh's Page
 
-[Picture of me](../daniel.png)
+[Picture of me](daniel.png)
 
 *Hello* my name is Daniel Huynh.
 
@@ -19,7 +19,7 @@ I have a professional portfolio website at:
 [Daniel Huynh | Portfolio](https://danielhuynh.co/)
 
 Here is my readme file:
-[README file](../README.md.md)
+[README file](README.md)
 
 The first three US Presidents are:
 - George Washington
