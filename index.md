@@ -38,5 +38,5 @@ Here is an example of a nested list:
 
 Here is my bucket list and what I've done on it:
 - [x] Skydiving
-- [ ] Roadbike in the Swiss Alps
-- [ ] Go Sharkcage diving
+- [] Roadbike in the Swiss Alps
+- [] Go Sharkcage diving
