@@ -1,8 +1,8 @@
 # Daniel Huynh's Page
 
-*Hello* my name is Daniel Huynh.
-
 [Picture of me](../daniel.png)
+
+*Hello* my name is Daniel Huynh.
 
 One of my favorite quotes is by
 > We have two lives, and the second one begins when we realize we only have one.
